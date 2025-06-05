@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@school/shared": ["packages/shared/src"]
+      }
+    }
+  }
+  
